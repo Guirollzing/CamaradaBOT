@@ -31,7 +31,7 @@ namespace Bot
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
 
-            string token = "OTgxMzIzODcwNTEyNTEzMDM0.GeRoYS.NvJ9AfkLGnafv_2MBC5njHnPR6o94BcsS9SIKM";
+            string token = "<TOKEN>";
 
             _client.Log += _client_Log;
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yUUfN990VKxh5Q9/BEANT2CZDTekncNWeV/0EPpo+FXX60R5CWmCKS97Vzu54J30CzMcLJrP4cLCnnUYp8z26A==",
+  "dgSpecHash": "/nJNeb1YMILUR4l3p/GNHzS2RKHND9zTmoDQ+1LnjtgckIkUJBUFA3SXbRyy6XUeofDrOAZxq0Sym+gNOkW2yQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guilherme\\source\\repos\\BotDoGui\\CamaradaBOT.csproj",
+  "projectFilePath": "C:\\Users\\Guilherme\\Documents\\GitHub\\CamaradaBOT\\CamaradaBOT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guilherme\\.nuget\\packages\\discord.net\\3.7.1\\discord.net.3.7.1.nupkg.sha512",
     "C:\\Users\\Guilherme\\.nuget\\packages\\discord.net.commands\\3.7.1\\discord.net.commands.3.7.1.nupkg.sha512",
